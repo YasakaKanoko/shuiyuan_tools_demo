@@ -11,7 +11,7 @@ function fahrenheitToCelsius() {
 </script>
 
 <template>
-  <van-form @submit="onSubmit">
+  <van-form >
     <van-cell-group inset>
       <van-field v-model="celsius" type="number" label="℃" @blur="celsiusToFahrenheit" />
       <van-field v-model="fahrenheit" type="number" label="℉" @blur="fahrenheitToCelsius" />
