@@ -1,4 +1,4 @@
-# .
+# shuiyuan_tools_demo
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -26,40 +26,4 @@ pnpm dev
 
 ```sh
 pnpm build
-```
-
-```
-router
-├─ .prettierrc.json
-├─ index.html
-├─ jsconfig.json
-├─ package.json
-├─ pnpm-lock.yaml
-├─ public
-│  └─ favicon.ico
-├─ README.md
-├─ src
-│  ├─ App.vue
-│  ├─ assets
-│  │  ├─ base.css
-│  │  ├─ logo.svg
-│  │  └─ main.css
-│  ├─ components
-│  │  ├─ HelloWorld.vue
-│  │  ├─ icons
-│  │  │  ├─ IconCommunity.vue
-│  │  │  ├─ IconDocumentation.vue
-│  │  │  ├─ IconEcosystem.vue
-│  │  │  ├─ IconSupport.vue
-│  │  │  └─ IconTooling.vue
-│  │  ├─ TheWelcome.vue
-│  │  └─ WelcomeItem.vue
-│  ├─ main.js
-│  ├─ router
-│  │  └─ index.js
-│  └─ views
-│     ├─ AboutView.vue
-│     └─ HomeView.vue
-└─ vite.config.js
-
 ```
