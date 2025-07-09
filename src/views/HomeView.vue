@@ -1,8 +1,7 @@
 <script setup>
-
-
+import Home from '@/features/home/Home.vue'
 </script>
 
 <template>
-  <div>Home</div>
+  <Home />
 </template>
